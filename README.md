@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a Software Engineering student at Aarhus University withexperience in various programming languages and a strong interestin the development and optimization of digital systems.
+Software Engineering student at Aarhus University withexperience in various programming languages and a strong interestin the development and optimization of digital systems.
 
 
 ## 🌐 Socials:
